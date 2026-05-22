@@ -1,0 +1,256 @@
+# NAF Recommendations and Clarifications for BB
+
+## 1. About this document
+
+This document provides recommendations and clarifications for the Third Season ruleset (BB2025) in the context of NAF-
+sanctioned tournaments. Its purpose is to offer a quick, practical reference for coaches and tournament organisers (TOs)
+when rules are unclear, ambiguous, incomplete, or lead to undesirable outcomes.
+
+The adoption of any errata or NAF rulings is optional. However, TOs should clearly state in their rules pack if this document,
+or parts of it, are in use!
+
+Please refer to **the NAF website** ( _Tournaments > BB2025 Recommendations_ ) for the most recent version of this document
+and additional context and instructions how to submit issues.
+
+## 2. Legend
+
+❔ FAQ – A clarification of a commonly asked rule.
+
+⚠ Errata – A correction or clarification where the rule is ambiguous or produces an unintended result.
+
+🔧 NAF Ruling – The rule is clear as written, but the NAF recommends a different handling.
+
+🔁 Change – A rule that is different from BB2020 and potentially misplayed by experienced coaches.
+
+## 3. General items
+
+```
+Category Page(s) Type NAF Tournament Ruling
+```
+Apothecary 32, 68 (^) 🔁 Apothecaries may be used on any player, also Star Players.
+
+Blitz Action (^64) 🔁 The declared target must be in reach.
+
+Bribes (^144) ⚠ Multiple Bribes may be used for a single Sent-off.
+
+Bribes 69, (^144) 🔁 Bribes may be used after rolling a 1 for Argue the Call.
+
+Catching the Ball 49, 72 (^) 🔁 No -1 modifier applies when catching the kick or an inaccurate pass.
+
+Fouling (^69) ⚠ Offensive and Defensive Assists are not optional.
+
+Jumping over Players (^56) 🔁 Players fall in the square they Jumped from if they fail a Rush.
+
+Jumping over Players (^56) 🔁 Jumping is not limited to once per activation.
+
+Kick-off: Charge (^48) 🔁 Team rerolls and skills may be used as in a normal team turn.
+
+Kick-off: Cheering fans (^48) ❔ Bonus potentially transfers to next drive for receiving coach.
+
+Kick-off: Dodgy Snack (^48) ❔ Players with Secret Weapons that are removed from the pitch are
+considered to not have taken part in the Drive.
+
+Mascot 144, 15 (^5) ❔ If a Mascot reroll is free (independent of success) due to Team Captain,
+the 4+ roll has to be repeated next time the Mascot reroll is used.
+
+Modifying Dice Rolls (^33) 🔧 Dice may be modified below 1 , or above 6.
+
+Pass hitting ground 35, 71 (^) ⚠ A passed ball hitting the ground is only a Turnover if no player of the
+active team ends up in possession of the ball.
+
+Passing Test 37, 71, 77 🔧 If the Passing Ability Test is a 1 or lower after modifiers, or a natural 1,
+the Pass is Fumbled. PA1+ players pass the test on a modified 1.
+
+Prayers to Nuffle (^143) ⚠ If a Prayer would give a random player a skill they already have (e.g.
+Mighty Blow or Loner) or can’t use (e.g. no primary access), nothing
+happens and no other player is selected.
+Rushing (^58) ⚠ You may Rush only after regular movement.
+
+Secure the Ball 46, (^59) ⚠ The -1 modifier from Pouring Rain applies to Secure the Ball.
+
+Secure the Ball (^59) ❔ Standing opponents are considered at the time of declaring the Action.
+
+Special Actions 121, 122 🔧 Prone players may Declare Special Actions allowed by Traits (e.g.
+Chainsaw, Throw Team-Mate, Hypnotic Gaze) as by Skills.
+
+
+```
+Category Page(s) Type NAF Tournament Ruling
+```
+Stalling 33, 81 (^) ❔ The Crowd Takes Action roll may not be rerolled.
+
+Standing Up 48, 54, 58 (^) ❔ Modifiers (e.g. from Dodgy Snack) are ignored to determine if a player
+with MA 2 or less needs to roll a 4+ to stand up.
+
+Star Players (^89) 🔁 Star Players count towards the minimum of 11 players.
+
+Star Players (^148) ❔ Both teams may hire the same Star Player.
+
+Take Backs (^33) ⚠ The last move may be taken back if no dice have been rolled.
+
+Team Captain 112, 155 (^) ❔ Star Players cannot be nominated as Team Captain.
+
+Team Captain 133, 155 (^) ❔ The Team Captain cannot use Pro to reroll the Team Captain roll.
+
+Throw-ins (^73) 🔁 The square the ball was in last is counted as square 1.
+Throw-ins 34, 73 (^) ⚠ A ball thrown-in by the crowd Bounces.
+
+Throw Team-Mate 51, 76 (^) 🔁 You may perform a Pass and Throw Team-Mate action in the same turn.
+
+Too many players (^47) 🔁 Opponent chooses players (excluding ball carrier or Star) for Reserve.
+
+Turnovers (^35) ⚠ A ball caught by an opponent after a failed Hand-Off is a Turnover.
+
+Unstunning 39, 66 (^) ⚠ A Stunned player Stunned again will not roll over at end of that turn.
+
+## 4. Skills
+
+```
+Category Page(s) Type NAF Tournament Ruling
+```
+Always Hungry (^123) ⚠ It is only a Turnover when the eaten player carried the ball.
+
+Animal Savagery (^123) ⚠ When lashing out, the player may perform the declared action.
+
+Animal Savagery (^123) 🔁 When lashing out, Mighty Blow must be used on the Armour Roll.
+
+Arm Bar 56, 123, 133 (^) ❔ Arm Bar applies to players with the Pogo skill.
+
+Ball & Chain 124, 136 (^) ⚠ Follow-up only if target is Pushed Back (cancelled by Stand Firm).
+
+Big Hand (^124) ❔ Big Hand works with the Secure the Ball action.
+
+Bombardier (^125) 🔁 All skills applicable to resolving a Pass action (e.g. Catch) are applicable
+to the Throw Bomb action, except On the Ball.
+
+Bombardier (^125) ⚠ Bombs immediately explode when hitting the ground, a prone or
+stunned player, or land in the crowd. They never bounce.
+
+Bombardier 35, (^125) 🔁 Knocking Down team mates with the explosion causes a Turnover..
+
+Brawler (^126) ⚠ Brawler can be used for both Frenzy and Multiple Block blocks.
+
+Brawler 33, 126 , 133 (^) 🔁 Brawler cannot be used together with Pro to reroll two dice of a pool.
+
+Break Tackle (^126) ❔ Break Tackle can be used after the Dodge roll, before Diving Tackle.
+
+Chainsaw 126, 131 (^) 🔁 Mighty Blow can be applied to armor or injury roll when blocking a
+player with Chainsaw, in addition to +3 modifier.
+
+Chainsaw (^126) ❔ No +3 modifier applies on a failed Block against a Chainsaw player.
+
+Claws 62 , (^127) 🔁 Claws may be used in the opponent's turn.
+
+Dauntless 127, 129 (^) 🔁 Dauntless is resolved before modifiers like e.g. Horns.
+
+Diving Catch 70, (^127) 🔁 The +1 modifier applies if the player is in the target square.
+
+Diving Tackle (^127) 🔁 Diving Tackle is used after the Dodge re-roll decision and all modifiers.
+
+Diving Tackle 38, (^127) 🔁 Diving Tackle triggers when a player leaves the Tackle Zone, not square.
+
+Dodge 39, 62, 127 (^) ⚠ Distracted players cannot use Dodge against Stumble.
+
+Dodge 39, 127 (^) ⚠ The use of Dodge is optional when being blocked.
+
+Dump Off (^128) 🔁 Takes effect when performing a block, not when declaring it.
+
+Dump Off (^128) 🔁 Can be used with any Special Action that targets the player (i.e. not
+
+Throw Bomb or Throw Team-mate that target a square).
+
+
+```
+Category Page(s) Type NAF Tournament Ruling
+```
+Eye Gouge 63, 128 (^) ⚠ When Chain Pushing a player B with the Eye Gouge skill into a third
+player C, Eye Gouge is not applied to player C.
+
+Eye Gouge (^128) ❔ Foul assists are also affected by Eye Gouge.
+
+Fumblerooski (^128) ⚠ The skill can only be used in the moment the square is vacated.
+
+Foul Appearance (^128) 🔁 Takes effect when performing a block, not when declaring it.
+
+Foul Appearance (^128) 🔁 Can be used with any Special Action that targets the player (i.e. not
+Throw Bomb or Throw Team-mate that target a square).
+
+Grab 63, 128 (^) ⚠ Only the immediate Block target cannot use Sidestep.
+
+Juggernaut 63, 129 (^) ⚠ A Chain Pushed opponent cannot use Stand Firm.
+
+Jump Up 53, 13 (^0) 🔁 The Jump Up Block cannot be replaced with a Special Action.
+
+Kick 47, 130 (^) 🔁 The kicking player may be on the LoS with fewer than 4 players.
+
+Kick 26, (^130) ⚠ The choice between a D3 or D6 is made after the roll.
+
+Leader 48, 130 (^) 🔁 Gain re-roll at the start of each half if a Leader is fielded; usable
+whenever a Leader is on the pitch (also returning from KO).
+
+Leader 130, 155 (^) ❔ Team Captain can be used with Leader rerolls.
+
+Lone Fouler (^130) ❔ The player is not Sent-off for a double that is then rerolled.
+
+Mighty Blow 62 , (^131) 🔁 Mighty Blow may be used in the opponent's turn.
+
+Multiple Block 53, 132 (^) 🔁 Multiple Block cannot be used with Special Actions.
+
+Multiple Block (^132) ⚠ Targets of Multiple Block do not provide assists to each other.
+
+Pile Driver 69, 133 (^) ❔ Pile Driver does not count towards the limit of fouls per turn.
+
+Pogo 55, 133 (^) ❔ Pogo is not limited to once per activation.
+
+Pro 33, 126, (^133) 🔁 Pro cannot be used together with Brawler to reroll two dice of a pool.
+
+Projectile Vomit (^133) ⚠ Breaking own armor only causes a Turnover when carrying the ball.
+
+Punt 71, (^134) ❔ Not a Pass Action, so no Interception and use of related skills.
+
+Punt 33, 134 (^) ❔ Team rerolls may be used to reroll direction or distance.
+
+Regeneration 68, 135 (^) 🔁 The Regeneration roll happens before applying an Apothecary.
+
+Safe Pair of Hands 135, 136 (^) ⚠ Cannot be used when knocked down by a Strip Ball player.
+
+Shadowing (^135) ⚠ Takes place immediately after resolving a Dodge roll.
+
+Stand Firm 128, 136 (^) 🔁 Stand Firm prevents the use of Eye Gouge and Strip Ball.
+
+Steady Footing 63, 137 (^) ❔ The decision to Follow-Up happens before any other dice are rolled.
+
+Strip Ball 80, 136 (^) ⚠ No touchdown is scored if the ball carrier is pushed into the end zone.
+
+Stunty (^136) 🔁 Dodge modifiers are ignored also with Secret Weapons and Swoop.
+
+Swoop 33, 137 (^) ❔ Team rerolls may be used to reroll direction or distance.
+
+Take Root (^137) 🔁 The roll is only required if the player is Standing.
+
+Tentacles (^137) 🔁 Used when opponent attempts to Dodge, Jump or Leap.
+
+## 5. Star Player Abilities (Best of)
+
+```
+Category Page(s) Type NAF Tournament Ruling
+```
+Deeproot Strongbranch PDF (^) ⚠ When Bouncing into an occupied square, they still crash land.
+
+Dribl and Drull PDF (^) ⚠ The +1 modifier is applied to the Injury roll.
+
+Grak and Crumbleberry PDF (^) ⚠ If Grak goes down while carrying Crumbleberry, or ends his activation
+with no open square around, Bounce Crumbleberry from Grak’s square
+(similar to a fumbled TTM).
+
+Grak and Crumbleberry PDF (^) ⚠ Picking up Crumbleberry carrying the ball is not a Turnover.
+
+Grim Ironjaw's Skills (^194) ⚠ Grim can only use either Multiple Block or Frenzy in one Block.
+
+Puggy Baconbreath (^195) ⚠ This can only be applied to his personal dice rolls, not globally.
+
+Ripper Bolgrot (^195) ⚠ This can only be applied to his personal dice rolls, not globally.
+
+Scylla Anfingrim PDF (^) ❔ When triggered, Scylla gets 4 Blocks in total (twice Frenzy).
+
+
