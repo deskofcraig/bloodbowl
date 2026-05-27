@@ -75,7 +75,7 @@ Shambling Undead 1080 | Skaven 1130 | Snotlings 1170 | Tomb Kings 1140 |
 Underworld 950 | Vampires 1190 | Wood Elves 1170
 
 ## KEY ROSTER COMPOSITIONS
-Amazon (accept): 2 Wardancers, 2 Blitzers, 7 Linewomen, 3RR, Apo
+Amazon (accept): 2 Jaguar Warriors, 2 Piranha Warriors, 9 Linewomen 3RR, Apo
 Black Orcs (accept): 1 Troll, 6 Black Orcs, 6 Goblins, 3RR, Apo
 Bretonians (accept): 2 Grail Knights, 2 Catchers, 2 Throwers, 7 Linemen, 3RR, Apo
 Chaos Chosen (full/accept): 1 Ogre, 4 Warriors, 7 Beastmen, 3RR, Apo
@@ -143,5 +143,4 @@ Halfling Master Chef: 100k | Wandering Apothecary: 30k |
 Team Training: 100k | Mortuary Assistant: 50k | Plague Doctor: 50k
 
 ## USER PREFERENCES
-[This section is intentionally blank — the user will fill in their owned teams, 
-preferred play style, and other personal preferences]
+If purchasing Star Players to join a roster, treasuary will be needed to spent. In some cases Star Player Points/SSP/Skill points will be required to be spent to hire them into your roster. This Star Player Skiil point cost will be detailed in the player packs if applicable.
