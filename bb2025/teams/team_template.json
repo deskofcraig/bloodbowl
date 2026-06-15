@@ -1,0 +1,33 @@
+{
+    "team": "",
+    "tier": ,
+    "league": "",
+    "special_rules": [""],
+    "reroll_cost": ,
+    "apothecary": ,
+    "positionals": [
+        {
+            "qty_min": ,
+            "qty_max": ,
+            "name": "",
+            "position": "",
+            "keyword": "",
+            "stats": {
+                "MA": ,
+                "ST": ,
+                "AG": "",
+                "PA": "",
+                "AV": ""
+            },
+            "starting_skills": [""],
+            "skill_access": {
+                "primary": [""],
+                "secondary": [""]
+            },
+            "cost":
+        }
+    ],
+    "star_players": [
+        ""
+    ]
+}
