@@ -1,0 +1,120 @@
+{
+    "team": "shambling undead",
+    "tier": 2,
+    "league": "sylvanian spotlight",
+    "special_rules": ["masters of undeath"],
+    "reroll_cost": 70000,
+    "apothecary": false,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "skeleton lineman",
+            "position": "lineman",
+            "keyword": ["human", "skeleton", "undead"],
+            "stats": {
+                "MA": 5,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Regeneration", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G"],
+                "secondary": ["A", "D", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "zombie lineman",
+            "position": "lineman",
+            "keyword": ["human", "undead", "zombie"],
+            "stats": {
+                "MA": 4,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Eye Gouge", "Regeneration", "Unsteady"],
+            "skill_access": {
+                "primary": ["D", "G"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "ghoul runner",
+            "position": "runner",
+            "keyword": ["ghoul", "undead"],
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["D", "P", "S"]
+            },
+            "cost": 75000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "wight blitzer",
+            "position": "blitzer",
+            "keyword": ["human", "skeleton", "undead"],
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "5+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Block", "Regeneration", "Tackle", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A", "D"]
+            },
+            "cost": 95000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "mummy",
+            "position": ["big guy", "blocker"],
+            "keyword": ["human", "undead"],
+            "stats": {
+                "MA": 3,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Mighty Blow", "Regeneration"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 125000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Skrull Halfheight",
+        "Gretchen Wächter",
+        "Ivan 'the Animal' Deathshroud",
+        "Wilhelm Chaney",
+        "Captain Karina von Riesz",
+        "Grak and Crumbleberry",
+        "Count Luthor Von Drakenborg"
+    ]
+}

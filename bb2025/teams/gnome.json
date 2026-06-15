@@ -1,0 +1,132 @@
+{
+    "team": "gnome",
+    "tier": 4,
+    "league": ["halfling thimble cup", "woodland league"],
+    "special_rules": [],
+    "reroll_cost": 50000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "gnome lineman",
+            "position": "lineman",
+            "keyword": "gnome",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "7+"
+            },
+            "starting_skills": ["Jump Up", "Right Stuff", "Stunty", "Wrestle"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["G", "S", "D"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "woodland fox",
+            "position": "runner",
+            "keyword": "animal",
+            "stats": {
+                "MA": 7,
+                "ST": 2,
+                "AG": "2+",
+                "PA": null,
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "My Ball", "Sidestep", "Stunty"],
+            "skill_access": {
+                "primary": [],
+                "secondary": ["A"]
+            },
+            "cost": 50000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "gnome illusionist",
+            "position": "special",
+            "keyword": "gnome",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "7+"
+            },
+            "starting_skills": ["Jump Up", "Stunty", "Trickster", "Wrestle"],
+            "skill_access": {
+                "primary": ["A", "P"],
+                "secondary": ["G", "D"]
+            },
+            "cost": 50000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "gnome beastmaster",
+            "position": "blocker",
+            "keyword": "gnome",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Guard", "Jump Up", "Stunty", "Wrestle"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["D", "G", "S"]
+            },
+            "cost": 55000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "altern forest treeman",
+            "position": "big guy",
+            "keyword": "treeman",
+            "stats": {
+                "MA": 2,
+                "ST": 6,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "11+"
+            },
+            "starting_skills": ["Mighty Blow", "Stand Firm", "Strong Arm", "Take Root", "Thick Skull", "Throw Team-Mate", "Timmm-ber!"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G", "P"]
+            },
+            "cost": 120000
+        }
+    ],
+    "star_players": {
+        "general": [
+            "Akhorne the Squirrel",
+            "Grak and Crumbleberry",
+            "Morg 'n' Thorg"
+        ],
+        "halfling_thimble_cup": [
+            "Cindy Piewhistle",
+            "Puggy Baconbreath",
+            "Grombrindal",
+            "Rumbelow Sheepskin"
+        ],
+        "woodland_league": [
+            "Rodney Roachbait",
+            "Swiftvine Glimmershard",
+            "Willow Rosebark",
+            "Rowana Forestfoot",
+            "Maple Highgrove",
+            "Deeproot Strongbranch",
+            "Jordell Freshbreeze"
+        ]
+    }
+}

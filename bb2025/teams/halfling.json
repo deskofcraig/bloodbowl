@@ -1,0 +1,112 @@
+{
+    "team": "halfling",
+    "tier": 4,
+    "league": ["halfling thimble cup", "woodland league"],
+    "special_rules": [],
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "halfling hopeful",
+            "position": "lineman",
+            "keyword": "halfling",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "7+"
+            },
+            "starting_skills": ["Dodge", "Right Stuff", "Stunty"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["G", "S", "D"]
+            },
+            "cost": 30000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "halfling hefty",
+            "position": "blocker",
+            "keyword": "halfling",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Fend", "Stunty"],
+            "skill_access": {
+                "primary": ["A", "P"],
+                "secondary": ["G", "S", "D"]
+            },
+            "cost": 50000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "halfling catcher",
+            "position": "catcher",
+            "keyword": "halfling",
+            "stats": {
+                "MA": 5,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "7+"
+            },
+            "starting_skills": ["Catch", "Dodge", "Right Stuff", "Sprint", "Stunty"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["G", "S", "D"]
+            },
+            "cost": 55000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "athel forest treeman",
+            "position": "big guy",
+            "keyword": "treeman",
+            "stats": {
+                "MA": 2,
+                "ST": 6,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "11+"
+            },
+            "starting_skills": ["Mighty Blow", "Stand Firm", "Strong Arm", "Take Root", "Thick Skull", "Throw Team-Mate", "Timmm-ber!"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G", "P", "D"]
+            },
+            "cost": 120000
+        }
+    ],
+    "star_players": {
+        "general": [
+            "Akhorne the Squirrel",
+            "Grak and Crumbleberry",
+            "Morg 'n' Thorg"
+        ],
+        "halfling_thimble_cup": [
+            "Cindy Piewhistle",
+            "Puggy Baconbreath",
+            "Grombrindal",
+            "Rumbelow Sheepskin"
+        ],
+        "woodland_league": [
+            "Rodney Roachbait",
+            "Swiftvine Glimmershard",
+            "Willow Rosebark",
+            "Rowana Forestfoot",
+            "Maple Highgrove",
+            "Deeproot Strongbranch",
+            "Jordell Freshbreeze"
+        ]
+    }
+}

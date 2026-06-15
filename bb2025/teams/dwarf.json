@@ -1,0 +1,122 @@
+{
+    "team": "dwarf",
+    "tier": 2,
+    "league": "worlds edge superleague",
+    "special_rules": ["brawlin' brutes", "bribery and corruption"],
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "dwarf lineman",
+            "position": "lineman",
+            "keyword": "dwarf",
+            "stats": {
+                "MA": 4,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Block", "Defensive", "Thick Skull"],
+            "skill_access": {
+                "primary": ["D", "G"],
+                "secondary": ["S"]
+            },
+            "cost": 70000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dwarf runner",
+            "position": "runner",
+            "keyword": "dwarf",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Sprint", "Sure Hands", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G", "P"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 80000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dwarf blitzer",
+            "position": "blitzer",
+            "keyword": "dwarf",
+            "stats": {
+                "MA": 5,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "4+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Block", "Diving Tackle", "Tackle", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["P"]
+            },
+            "cost": 100000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "troll slayer",
+            "position": "special",
+            "keyword": "dwarf",
+            "stats": {
+                "MA": 5,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "5+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Block", "Dauntless", "Frenzy", "Hatred (Troll)", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["D"]
+            },
+            "cost": 95000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "deathroller",
+            "position": ["big guy", "special"],
+            "keyword": "dwarf",
+            "stats": {
+                "MA": 5,
+                "ST": 7,
+                "AG": "5+",
+                "PA": null,
+                "AV": "11+"
+            },
+            "starting_skills": ["Break Tackle", "Dirty Player", "Juggernaut", "Loner (4+)", "Mighty Blow", "No Ball", "Secret Weapon", "Stand Firm"],
+            "skill_access": {
+                "primary": ["D", "S"],
+                "secondary": ["G"]
+            },
+            "cost": 170000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Barik Farblast",
+        "Skrull Halfheight",
+        "Grombrindal",
+        "Thorsson Stoutmead",
+        "Grim Ironjaw",
+        "The Mighty Zug",
+        "Skrorg Snowpelt",
+        "Grak and Crumbleberry",
+        "Morg 'n' Thorg"
+    ]
+}

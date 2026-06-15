@@ -1,0 +1,127 @@
+{
+    "team": "imperial nobility",
+    "tier": 2,
+    "league": "old world classic",
+    "special_rules": [],
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "imperial retainer",
+            "position": "lineman",
+            "keyword": "human",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Fend"],
+            "skill_access": {
+                "primary": ["G"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 45000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "imperial thrower",
+            "position": "thrower",
+            "keyword": "human",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "2+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Give and Go", "Pass", "Pro"],
+            "skill_access": {
+                "primary": ["G", "P"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 75000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 4,
+            "name": "bodyguard",
+            "position": "blocker",
+            "keyword": "human",
+            "stats": {
+                "MA": 5,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Stand Firm", "Wrestle"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A"]
+            },
+            "cost": 85000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "noble blitzer",
+            "position": "blitzer",
+            "keyword": "human",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Block", "Catch", "Pro"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "ogre",
+            "position": "big guy",
+            "keyword": "ogre",
+            "stats": {
+                "MA": 5,
+                "ST": 5,
+                "AG": "4+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Bone Head", "Loner (3+)", "Mighty Blow", "Thick Skull", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 140000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Barik Farblast",
+        "Cindy Piewhistle",
+        "Puggy Baconbreath",
+        "Helmut Wulf",
+        "Grombrindal",
+        "Thorsson Stoutmead",
+        "Josef Bugman",
+        "Karla von Kill",
+        "Ivar Eriksson",
+        "The Mighty Zug",
+        "Skrorg Snowpelt",
+        "Grak and Crumbleberry",
+        "Griff Oberwald",
+        "Morg 'n' Thorg"
+    ]
+}

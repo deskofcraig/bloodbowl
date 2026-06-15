@@ -1,0 +1,98 @@
+{
+    "team": "ogre",
+    "tier": 4,
+    "league": ["badlands brawl", "worlds edge superleague"],
+    "special_rules": ["brawlin' brutes", "low cost linemen"],
+    "reroll_cost": 70000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "gnoblar lineman",
+            "position": "lineman",
+            "keyword": "gnoblar",
+            "stats": {
+                "MA": 5,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "Right Stuff", "Sidestep", "Stunty", "Titchy"],
+            "skill_access": {
+                "primary": ["A", "D"],
+                "secondary": ["G"]
+            },
+            "cost": 15000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 5,
+            "name": "ogre blocker",
+            "position": ["big guy", "blocker"],
+            "keyword": "ogre",
+            "stats": {
+                "MA": 5,
+                "ST": 5,
+                "AG": "4+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Bone Head", "Mighty Blow", "Thick Skull", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "D", "G", "P"]
+            },
+            "cost": 140000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "ogre runt punter",
+            "position": ["big guy", "thrower"],
+            "keyword": "ogre",
+            "stats": {
+                "MA": 5,
+                "ST": 5,
+                "AG": "4+",
+                "PA": "4+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Bone Head", "Kick Team-Mate", "Mighty Blow", "Thick Skull"],
+            "skill_access": {
+                "primary": ["P", "S"],
+                "secondary": ["A", "D", "G"]
+            },
+            "cost": 145000
+        }
+    ],
+    "star_players": {
+        "general": [
+            "Akhorne the Squirrel",
+            "Grak and Crumbleberry",
+            "Morg 'n' Thorg"
+        ],
+        "badlands_brawl": [
+            "Fungus the Loon",
+            "Bomber Dribblesnot",
+            "Nobbla Blackwart",
+            "Scrappa Sorehead",
+            "Rashnak Backstabber",
+            "The Black Gobbo",
+            "Ripper Bolgrot",
+            "Varag Ghoul-Chewer",
+            "H'thark the Unstoppable"
+        ],
+        "worlds_edge_superleague": [
+            "Barik Farblast",
+            "Skrull Halfheight",
+            "Grombrindal",
+            "Thorsson Stoutmead",
+            "Josef Bugman",
+            "Grim Ironjaw",
+            "The Mighty Zug",
+            "Skrorg Snowpelt"
+        ]
+    }
+}

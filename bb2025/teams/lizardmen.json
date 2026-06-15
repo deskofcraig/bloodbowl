@@ -1,0 +1,102 @@
+{
+    "team": "lizardmen",
+    "tier": 1,
+    "league": "lustrian superleague",
+    "special_rules": [],
+    "reroll_cost": 70000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "skink lineman",
+            "position": "lineman",
+            "keyword": "lizardman",
+            "stats": {
+                "MA": 8,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Stunty"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["G", "P", "S", "D"]
+            },
+            "cost": 60000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "chameleon skink",
+            "position": "thrower",
+            "keyword": "lizardman",
+            "stats": {
+                "MA": 7,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "On the Ball", "Shadowing", "Stunty"],
+            "skill_access": {
+                "primary": ["A", "P"],
+                "secondary": ["G", "S", "D"]
+            },
+            "cost": 70000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 6,
+            "name": "saurus blocker",
+            "position": "blocker",
+            "keyword": "lizardman",
+            "stats": {
+                "MA": 6,
+                "ST": 4,
+                "AG": "5+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Juggernaut", "Unsteady"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "kroxigor",
+            "position": "big guy",
+            "keyword": "lizardman",
+            "stats": {
+                "MA": 6,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Bone Head", "Loner (4+)", "Mighty Blow", "Prehensile Tail", "Thick Skull"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 140000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Boa Kon'ssstriktr",
+        "Estelle la Veneaux",
+        "Anqi Panqi",
+        "Karla von Kill",
+        "Zolcath the Zoat",
+        "Dribl and Drull",
+        "Grak and Crumbleberry",
+        "Glotl Stop",
+        "Morg 'n' Thorg"
+    ]
+}

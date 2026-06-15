@@ -1,0 +1,103 @@
+{
+    "team": "high elf",
+    "tier": null,
+    "league": "elven kingdoms league",
+    "special_rules": [],
+    "reroll_cost": 50000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "high elf lineman",
+            "position": "lineman",
+            "keyword": "elf",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": [],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S"]
+            },
+            "cost": 65000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "phoenix warrior",
+            "position": "thrower",
+            "keyword": "elf",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "2+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Cloud Burster", "Pass", "Safe Pass"],
+            "skill_access": {
+                "primary": ["A", "G", "P"],
+                "secondary": ["S"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dragon prince",
+            "position": ["blitzer", "runner"],
+            "keyword": "elf",
+            "stats": {
+                "MA": 8,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Block", "My Ball", "Steady Footing"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S"]
+            },
+            "cost": 110000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "white lion",
+            "position": "blitzer",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Claws", "Wrestle"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S"]
+            },
+            "cost": 110000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Gloriel Summerbloom",
+        "Kiroth Krakeneye",
+        "Eldril Sidewinder",
+        "Zolcath the Zoat",
+        "Grak and Crumbleberry",
+        "Roxanna Darknail",
+        "Jordell Freshbreeze",
+        "The Swift Twins",
+        "Jeremiah Kool",
+        "Morg 'n' Thorg"
+    ]
+}
