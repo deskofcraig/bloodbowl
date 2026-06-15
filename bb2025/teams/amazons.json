@@ -1,0 +1,112 @@
+{
+    "team": "amazons",
+    "positionals": [
+        {
+            "qty": "0-16",
+            "name": "eagle warrior",
+            "position": "lineman",
+            "keyword": "human",
+            "MA": "6",
+            "ST": "3",
+            "AG": "3+",
+            "PA": "4+",
+            "AV": "8+",
+            "skills": ["Dodge"],
+            "primary": ["G"],
+            "secondary": ["A", "S"],
+            "cost": "50K"
+        },
+        {
+            "qty": "0-2",
+            "name": "python warrior",
+            "position": "thrower",
+            "keyword": "human",
+            "MA": "6",
+            "ST": "3",
+            "AG": "3+",
+            "PA": "3+",
+            "AV": "8+",
+            "skills": ["Dodge", "On the Ball", "Pass", "Safe Pass"],
+            "primary": ["G", "P"],
+            "secondary": ["A", "S"],
+            "cost": "80K"
+        },
+        {
+            "qty": "0-2",
+            "name": "piranha warrior",
+            "position": "blitzer",
+            "keyword": "human",
+            "MA": "7",
+            "ST": "3",
+            "AG": "3+",
+            "PA": "4+",
+            "AV": "8+",
+            "skills": ["Dodge", "Hit and Run", "Jump Up"],
+            "primary": ["A", "G"],
+            "secondary": ["S"],
+            "cost": "90K"
+        },
+        {
+            "qty": "0-2",
+            "name": "jaguar warrior",
+            "position": "blocker",
+            "keyword": "human",
+            "MA": "6",
+            "ST": "4",
+            "AG": "3+",
+            "PA": "4+",
+            "AV": "9+",
+            "skills": ["Defensive", "Dodge"],
+            "primary": ["G", "S"],
+            "secondary": ["A"],
+            "cost": "110K"
+        }
+    ],
+    "league": "lustrian superleague",
+    "staff": [
+        {
+            "name": "cheerleader",
+            "cost": "10K"
+        },
+        {
+            "name": "assistant coach",
+            "cost": "10K"
+        },
+        {
+            "name": "apothecary",
+            "cost": "50K"
+        },
+        {
+            "name": "re-roll",
+            "cost": "60K"
+        }
+    ],
+    "star-players": [
+        "Akhorne the Squirrel", 
+        "Boa Kon'ssstriktr", 
+        "Estelle la Veneaux", 
+        "Anqi Panqi", 
+        "Karla von Kill", 
+        "Zolcath the Zoat", 
+        "Dribl and Drull",
+        "Grak and Crumbleberry",
+        "Glotl Stop",
+        "Morg 'n' Thorg"
+    ],
+    "inducements": [
+        "Temp Agency Cheerleader",
+        "Prayers to Nuffle",
+        "Part-time Assistant Coach",
+        "Team Mascot",
+        "Weather Mage",
+        "Mercenary Player",
+        "Blitzer's Best Keg",
+        "Bribe",
+        "Extra Team Training",
+        "Infamous Coaching Staff",
+        "Wandering Apothecary",
+        "Biased Referee",
+        "Wizard",
+        "Halfling Master Chef"
+    ]
+}
