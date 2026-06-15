@@ -58,6 +58,18 @@
     ],
     "skills": 
     [
+        {
+
+        },
+
+        {
+            "template":
+            {
+                "name": "",
+                "skill-use": [""],
+                "description": ""
+            }
+        }
 
     ],
     "traits": 
@@ -244,12 +256,13 @@
         }
     ],
 
-    {
+    
+        "template":
         {
             "name": "",
             "skill-use": [""],
             "description": ""
         }
-    }
+    
 
 }
