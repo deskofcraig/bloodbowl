@@ -202,7 +202,7 @@
             "starting_skills": ["Bone Head", "Loner (3+)", "Mighty Blow", "Thick Skull", "Throw Team-Mate"],
             "skill_access": {
                 "primary": ["S"],
-                "secondary": ["A", "G", "M"]
+                "secondary": ["A", "G"]
             },
             "cost": 140000
         },

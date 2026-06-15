@@ -242,14 +242,14 @@
             "skill-use": ["*", "passive"],
             "description": "This player may not declare Secure the Ball Actions."
         }
-    ]
+    ],
 
-{
+    {
         {
             "name": "",
             "skill-use": [""],
             "description": ""
         }
-}
+    }
 
 }
