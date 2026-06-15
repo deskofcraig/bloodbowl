@@ -1,20 +1,20 @@
 {
     "team": "",
-    "tier": ,
+    "tier": 0,
     "league": "",
     "special_rules": [""],
-    "reroll_cost": ,
-    "apothecary": ,
+    "reroll_cost": 0,
+    "apothecary": 0,
     "positionals": [
         {
-            "qty_min": ,
-            "qty_max": ,
+            "qty_min": 0,
+            "qty_max": 0,
             "name": "",
             "position": "",
             "keyword": "",
             "stats": {
-                "MA": ,
-                "ST": ,
+                "MA": 0,
+                "ST": 0,
                 "AG": "",
                 "PA": "",
                 "AV": ""
@@ -24,7 +24,7 @@
                 "primary": [""],
                 "secondary": [""]
             },
-            "cost":
+            "cost": 0
         }
     ],
     "star_players": [

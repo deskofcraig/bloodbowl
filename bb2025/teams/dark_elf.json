@@ -1,0 +1,123 @@
+{
+    "team": "dark elf",
+    "tier": 1,
+    "league": "elven kingdoms league",
+    "special_rules": [],
+    "reroll_cost": 50000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "dark elf lineman",
+            "position": "lineman",
+            "keyword": "elf",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": [],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S", "D"]
+            },
+            "cost": 65000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dark elf runner",
+            "position": "runner",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dump-off", "Punt"],
+            "skill_access": {
+                "primary": ["A", "G", "P"],
+                "secondary": ["S", "D"]
+            },
+            "cost": 80000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dark elf assassin",
+            "position": "special",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Hit and Run", "Shadowing", "Stab"],
+            "skill_access": {
+                "primary": ["A", "D"],
+                "secondary": ["G", "S"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "dark elf blitzer",
+            "position": "blitzer",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Block"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S", "D"]
+            },
+            "cost": 105000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "witch elf",
+            "position": "special",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Frenzy", "Jump Up"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S", "D"]
+            },
+            "cost": 110000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Gloriel Summerbloom",
+        "Kiroth Krakeneye",
+        "Eldril Sidewinder",
+        "Zolcath the Zoat",
+        "Grak and Crumbleberry",
+        "Jordell Freshbreeze",
+        "Roxanna Darknail",
+        "The Swift Twins",
+        "Jeremiah Kool",
+        "Morg 'n' Thorg"
+    ]
+}

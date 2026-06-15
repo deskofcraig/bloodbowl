@@ -1,0 +1,120 @@
+{
+    "team": "necromantic horror",
+    "tier": 2,
+    "league": "sylvanian spotlight",
+    "special_rules": ["masters of undeath"],
+    "reroll_cost": 70000,
+    "apothecary": false,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "zombie lineman",
+            "position": "lineman",
+            "keyword": ["human", "undead", "zombie"],
+            "stats": {
+                "MA": 4,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Eye Gouge", "Regeneration", "Unsteady"],
+            "skill_access": {
+                "primary": ["D", "G"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "ghoul runner",
+            "position": "runner",
+            "keyword": ["ghoul", "undead"],
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["D", "P", "S"]
+            },
+            "cost": 75000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "wraith",
+            "position": "blocker",
+            "keyword": ["undead", "wraith"],
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": null,
+                "AV": "9+"
+            },
+            "starting_skills": ["Block", "Foul Appearance", "No Ball", "Regeneration", "Sidestep"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A", "D"]
+            },
+            "cost": 85000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "flesh golem",
+            "position": "blocker",
+            "keyword": ["construct", "undead"],
+            "stats": {
+                "MA": 4,
+                "ST": 4,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Regeneration", "Stand Firm", "Thick Skull", "Unsteady"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A", "D"]
+            },
+            "cost": 110000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "werewolf",
+            "position": "blitzer",
+            "keyword": ["undead", "werewolf"],
+            "stats": {
+                "MA": 8,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Claws", "Frenzy", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["D", "P", "S"]
+            },
+            "cost": 120000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Skrull Halfheight",
+        "Gretchen Wächter",
+        "Ivan 'the Animal' Deathshroud",
+        "Wilhelm Chaney",
+        "Captain Karina von Riesz",
+        "Grak and Crumbleberry",
+        "Count Luthor Von Drakenborg"
+    ]
+}

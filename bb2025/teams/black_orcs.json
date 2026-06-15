@@ -1,0 +1,80 @@
+{
+    "team": "black orc",
+    "tier": 3,
+    "league": "badlands brawl",
+    "special_rules": ["bribery and corruption", "brawlin' brutes"],
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "goblin bruiser",
+            "position": "lineman",
+            "keyword": "goblin",
+            "stats": {
+                "MA": 6,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Right Stuff", "Stunty"],
+            "skill_access": {
+                "primary": ["A"],
+                "secondary": ["G", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 6,
+            "name": "black orc blocker",
+            "position": "blocker",
+            "keyword": "orc",
+            "stats": {
+                "MA": 4,
+                "ST": 4,
+                "AG": "4+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Brawler"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A", "D"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "trained troll",
+            "position": "big guy",
+            "keyword": "troll",
+            "stats": {
+                "MA": 4,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Always Hungry", "Loner (4+)", "Mighty Blow (+1)", "Really Stupid", "Regeneration", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["G", "A", "P"]
+            },
+            "cost": 115000
+        }
+    ],
+    "star_players": [
+        "Scrappa Sorehead",
+        "The Black Gobbo",
+        "Varag Ghoul-Chewer",
+        "The Mighty Zug",
+        "Lord Borak the Despoiler",
+        "Grak & Crumbleberry",
+        "Ripper Bolgrot",
+        "Morg 'n' Thorg"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "team": "bretonnian",
+    "tier": 2,
+    "league": "old world classic",
+    "special_rules": null,
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "bretonnian squire",
+            "position": "lineman",
+            "keyword": "human",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Wrestle"],
+            "skill_access": {
+                "primary": ["G"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 50000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "bretonnian knight catcher",
+            "position": "catcher",
+            "keyword": "human",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Catch", "Dauntless", "Nerves of Steel"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S"]
+            },
+            "cost": 85000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "bretonnian knight thrower",
+            "position": "thrower",
+            "keyword": "human",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "3+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Dauntless", "Nerves of Steel", "Pass"],
+            "skill_access": {
+                "primary": ["G", "P"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 80000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "grail knight",
+            "position": "blitzer",
+            "keyword": "human",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Block", "Dauntless", "Steady Footing"],
+            "skill_access": {
+                "primary": ["G", "S"],
+                "secondary": ["A"]
+            },
+            "cost": 95000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Barik Farblast",
+        "Cindy Piewhistle",
+        "Puggy Baconbreath",
+        "Helmut Wulf",
+        "Grombrindal",
+        "Thorsson Stoutmead",
+        "Karla von Kill",
+        "Ivar Eriksson",
+        "The Mighty Zug",
+        "Skrorg Snowpelt",
+        "Grak and Crumbleberry",
+        "Griff Oberwald",
+        "Morg 'n' Thorg"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "team": "nurgle",
+    "tier": 3,
+    "league": "chaos clash",
+    "special_rules": ["favoured of nurgle", "brawlin' brutes"],
+    "reroll_cost": 60000,
+    "apothecary": false,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "rotter",
+            "position": "lineman",
+            "keyword": "human",
+            "stats": {
+                "MA": 5,
+                "ST": 3,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Decay", "Plague Ridden"],
+            "skill_access": {
+                "primary": ["G", "M", "D"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "pestigor",
+            "position": "runner",
+            "keyword": "beastman",
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Horns", "Plague Ridden", "Regeneration", "Steady Footing", "Thick Skull"],
+            "skill_access": {
+                "primary": ["G", "M", "S"],
+                "secondary": ["A", "P", "D"]
+            },
+            "cost": 70000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 4,
+            "name": "bloater",
+            "position": "blocker",
+            "keyword": "human",
+            "stats": {
+                "MA": 4,
+                "ST": 4,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Disturbing Presence", "Foul Appearance", "Plague Ridden", "Regeneration", "Stand Firm", "Unsteady"],
+            "skill_access": {
+                "primary": ["G", "M", "S"],
+                "secondary": ["A", "D"]
+            },
+            "cost": 110000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "rotspawn",
+            "position": "big guy",
+            "keyword": "spawn",
+            "stats": {
+                "MA": 4,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Disturbing Presence", "Foul Appearance", "Loner (4+)", "Mighty Blow", "Pick-me-up", "Plague Ridden", "Really Stupid", "Regeneration", "Tentacles"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["G", "M", "D"]
+            },
+            "cost": 140000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Guffle Pusmaw",
+        "Withergrasp Doubledrool",
+        "Bilerot Vomitflesh",
+        "Grashnak Blackhoof",
+        "Grak and Crumbleberry",
+        "Lord Borak the Despoiler",
+        "Morg 'n' Thorg"
+    ]
+}
