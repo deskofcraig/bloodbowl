@@ -1,0 +1,120 @@
+{
+    "team": "vampire",
+    "tier": 2,
+    "league": "sylvanian spotlight",
+    "special_rules": ["masters of undeath"],
+    "reroll_cost": 60000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "thrall lineman",
+            "position": "lineman",
+            "keyword": ["human", "thrall"],
+            "stats": {
+                "MA": 6,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": [],
+            "skill_access": {
+                "primary": ["G"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "vampire runner",
+            "position": "runner",
+            "keyword": ["undead", "vampire"],
+            "stats": {
+                "MA": 8,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Bloodlust (2+)", "Hypnotic Gaze", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S"]
+            },
+            "cost": 100000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "vampire thrower",
+            "position": "thrower",
+            "keyword": ["undead", "vampire"],
+            "stats": {
+                "MA": 6,
+                "ST": 4,
+                "AG": "2+",
+                "PA": "2+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Bloodlust (2+)", "Hypnotic Gaze", "Pass", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G", "P"],
+                "secondary": ["S"]
+            },
+            "cost": 110000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "vampire blitzer",
+            "position": "blitzer",
+            "keyword": ["undead", "vampire"],
+            "stats": {
+                "MA": 6,
+                "ST": 4,
+                "AG": "2+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Bloodlust (3+)", "Hypnotic Gaze", "Juggernaut", "Regeneration"],
+            "skill_access": {
+                "primary": ["A", "G", "S"],
+                "secondary": []
+            },
+            "cost": 110000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "vargheist",
+            "position": "big guy",
+            "keyword": ["undead", "vampire"],
+            "stats": {
+                "MA": 5,
+                "ST": 5,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Bloodlust (3+)", "Claws", "Frenzy", "Loner (4+)", "Regeneration"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 150000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Skrull Halfheight",
+        "Gretchen Wächter",
+        "Ivan 'the Animal' Deathshroud",
+        "Wilhelm Chaney",
+        "Captain Karina von Riesz",
+        "Grak and Crumbleberry",
+        "Count Luthor Von Drakenborg"
+    ]
+}

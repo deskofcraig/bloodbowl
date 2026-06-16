@@ -1,0 +1,185 @@
+{
+    "team": "underworld denizens",
+    "tier": 1,
+    "league": "underworld challenge",
+    "special_rules": ["bribery and corruption", "single big guy - choose one of troll or rat ogre"],
+    "reroll_cost": 70000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "goblin lineman",
+            "position": "lineman",
+            "keyword": "goblin",
+            "stats": {
+                "MA": 6,
+                "ST": 2,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Dodge", "Right Stuff", "Stunty"],
+            "skill_access": {
+                "primary": ["A", "D", "M"],
+                "secondary": ["G", "P", "S"]
+            },
+            "cost": 40000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 6,
+            "name": "snotling lineman",
+            "position": "lineman",
+            "keyword": "snotling",
+            "stats": {
+                "MA": 5,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "Insignificant", "Right Stuff", "Sidestep", "Stunty", "Titchy"],
+            "skill_access": {
+                "primary": ["A", "D", "M"],
+                "secondary": ["G"]
+            },
+            "cost": 15000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 3,
+            "name": "skaven clanrat",
+            "position": "lineman",
+            "keyword": "skaven",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Animosity (Goblin)"],
+            "skill_access": {
+                "primary": ["G", "M", "D"],
+                "secondary": ["A", "S"]
+            },
+            "cost": 50000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "skaven thrower",
+            "position": "thrower",
+            "keyword": "skaven",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "2+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Animosity (Goblin)", "Pass", "Sure Hands"],
+            "skill_access": {
+                "primary": ["G", "M", "P"],
+                "secondary": ["A", "D", "S"]
+            },
+            "cost": 80000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "gutter runner",
+            "position": "runner",
+            "keyword": "skaven",
+            "stats": {
+                "MA": 9,
+                "ST": 2,
+                "AG": "2+",
+                "PA": "4+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Animosity (Goblin)", "Dodge", "Stab"],
+            "skill_access": {
+                "primary": ["A", "G", "M", "D"],
+                "secondary": ["S"]
+            },
+            "cost": 85000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "skaven blitzer",
+            "position": "blitzer",
+            "keyword": "skaven",
+            "stats": {
+                "MA": 8,
+                "ST": 3,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Animosity (Goblin)", "Block", "Strip Ball"],
+            "skill_access": {
+                "primary": ["G", "M", "S"],
+                "secondary": ["A", "P"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "troll",
+            "position": "big guy",
+            "keyword": "troll",
+            "stats": {
+                "MA": 4,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Always Hungry", "Loner (4+)", "Mighty Blow", "Projectile Vomit", "Really Stupid", "Regeneration", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["M", "S"],
+                "secondary": ["A", "G", "P"]
+            },
+            "cost": 115000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "rat ogre",
+            "position": "big guy",
+            "keyword": "skaven",
+            "stats": {
+                "MA": 6,
+                "ST": 5,
+                "AG": "4+",
+                "PA": "6+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Animal Savagery", "Frenzy", "Loner (4+)", "Mighty Blow", "Prehensile Tail"],
+            "skill_access": {
+                "primary": ["M", "S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 150000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Fungus the Loon",
+        "Bomber Dribblesnot",
+        "Nobbla Blackwart",
+        "Scrappa Sorehead",
+        "Skitter Stab-Stab",
+        "Glart Smashrip",
+        "Kreek Rustgouger",
+        "Hakflem Skuttlespike",
+        "The Black Gobbo",
+        "Grak and Crumbleberry",
+        "Ripper Bolgrot",
+        "Morg 'n' Thorg"
+    ]
+}

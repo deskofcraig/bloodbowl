@@ -1,0 +1,145 @@
+{
+    "team": "snotling",
+    "tier": 4,
+    "league": "underworld challenge",
+    "special_rules": ["bribery and corruption", "low cost linemen", "swarming"],
+    "reroll_cost": 70000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "snotling lineman",
+            "position": "lineman",
+            "keyword": "snotling",
+            "stats": {
+                "MA": 5,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "Insignificant", "Right Stuff", "Sidestep", "Stunty", "Titchy"],
+            "skill_access": {
+                "primary": ["A", "D"],
+                "secondary": ["G"]
+            },
+            "cost": 15000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "fun-hoppa",
+            "position": "special",
+            "keyword": "snotling",
+            "stats": {
+                "MA": 6,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "Pogo", "Right Stuff", "Sidestep", "Stunty"],
+            "skill_access": {
+                "primary": ["A", "D"],
+                "secondary": ["G"]
+            },
+            "cost": 20000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "stilty runna",
+            "position": "runner",
+            "keyword": "snotling",
+            "stats": {
+                "MA": 6,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Dodge", "Right Stuff", "Sidestep", "Sprint", "Stunty"],
+            "skill_access": {
+                "primary": ["A", "D"],
+                "secondary": ["G"]
+            },
+            "cost": 20000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "fungus flinga",
+            "position": "special",
+            "keyword": "snotling",
+            "stats": {
+                "MA": 5,
+                "ST": 1,
+                "AG": "3+",
+                "PA": "4+",
+                "AV": "6+"
+            },
+            "starting_skills": ["Bombardier", "Dodge", "Right Stuff", "Secret Weapon", "Sidestep", "Stunty", "Titchy"],
+            "skill_access": {
+                "primary": ["A", "D", "P"],
+                "secondary": ["G"]
+            },
+            "cost": 30000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "pump wagon",
+            "position": ["big guy", "special"],
+            "keyword": "snotling",
+            "stats": {
+                "MA": 5,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "6+",
+                "AV": "9+"
+            },
+            "starting_skills": ["Dirty Player", "Juggernaut", "Mighty Blow", "Really Stupid", "Stand Firm"],
+            "skill_access": {
+                "primary": ["D", "S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 100000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "trained troll",
+            "position": "big guy",
+            "keyword": "troll",
+            "stats": {
+                "MA": 4,
+                "ST": 5,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "10+"
+            },
+            "starting_skills": ["Always Hungry", "Mighty Blow", "Projectile Vomit", "Really Stupid", "Regeneration", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G", "P"]
+            },
+            "cost": 115000
+        }
+    ],
+    "star_players": [
+        "Akhorne the Squirrel",
+        "Fungus the Loon",
+        "Bomber Dribblesnot",
+        "Nobbla Blackwart",
+        "Scrappa Sorehead",
+        "Skitter Stab-Stab",
+        "Glart Smashrip",
+        "Kreek Rustgouger",
+        "Hakflem Skuttlespike",
+        "The Black Gobbo",
+        "Grak and Crumbleberry",
+        "Ripper Bolgrot",
+        "Morg 'n' Thorg"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "team": "wood elf",
+    "tier": 1,
+    "league": ["elven kingdoms league", "woodland league"],
+    "special_rules": [],
+    "reroll_cost": 50000,
+    "apothecary": true,
+    "positionals": [
+        {
+            "qty_min": 0,
+            "qty_max": 16,
+            "name": "wood elf lineman",
+            "position": "lineman",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": [],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["S"]
+            },
+            "cost": 65000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "wood elf thrower",
+            "position": "thrower",
+            "keyword": "elf",
+            "stats": {
+                "MA": 7,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "2+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Pass", "Safe Pair of Hands"],
+            "skill_access": {
+                "primary": ["A", "G", "P"],
+                "secondary": ["S"]
+            },
+            "cost": 85000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "wood elf catcher",
+            "position": "catcher",
+            "keyword": "elf",
+            "stats": {
+                "MA": 8,
+                "ST": 2,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Catch", "Dodge", "Sprint"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S"]
+            },
+            "cost": 90000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 2,
+            "name": "wardancer",
+            "position": "blitzer",
+            "keyword": "elf",
+            "stats": {
+                "MA": 8,
+                "ST": 3,
+                "AG": "2+",
+                "PA": "3+",
+                "AV": "8+"
+            },
+            "starting_skills": ["Block", "Dodge", "Leap"],
+            "skill_access": {
+                "primary": ["A", "G"],
+                "secondary": ["P", "S"]
+            },
+            "cost": 130000
+        },
+        {
+            "qty_min": 0,
+            "qty_max": 1,
+            "name": "loren forest treeman",
+            "position": "big guy",
+            "keyword": "treeman",
+            "stats": {
+                "MA": 2,
+                "ST": 6,
+                "AG": "5+",
+                "PA": "5+",
+                "AV": "11+"
+            },
+            "starting_skills": ["Loner (4+)", "Mighty Blow", "Stand Firm", "Strong Arm", "Take Root", "Thick Skull", "Throw Team-Mate"],
+            "skill_access": {
+                "primary": ["S"],
+                "secondary": ["A", "G"]
+            },
+            "cost": 120000
+        }
+    ],
+    "star_players": {
+        "general": [
+            "Akhorne the Squirrel",
+            "Grak and Crumbleberry",
+            "Jordell Freshbreeze",
+            "Morg 'n' Thorg"
+        ],
+        "elven_kingdoms_league": [
+            "Gloriel Summerbloom",
+            "Kiroth Krakeneye",
+            "Eldril Sidewinder",
+            "Zolcath the Zoat",
+            "Roxanna Darknail",
+            "Jeremiah Kool",
+            "The Swift Twins"
+        ],
+        "woodland_league": [
+            "Rodney Roachbait",
+            "Swiftvine Glimmershard",
+            "Willow Rosebark",
+            "Rowana Forestfoot",
+            "Maple Highgrove",
+            "Deeproot Strongbranch"
+        ]
+    }
+}
